@@ -56,9 +56,9 @@ return {
           empty_open = "",
           open = "",
           symlink = "",
-          symlink_open = "",
-          arrow_open = "",
-          arrow_closed = "",
+          symlink_open = "🗀",
+          arrow_open = "🗁 ",
+          arrow_closed = "🗀 ",
         },
         git = {
           unstaged = "✗",
